@@ -1,4 +1,5 @@
 {
   "item.tutorialmod.ice_ether":"冰之以太",
-  "itemGroup.tutorial.group": "以太"
+  "itemGroup.tutorial.group": "以太",
+  "block.tutorial.ice_ether_block": "冰之以太方块"
 }

@@ -1,4 +1,5 @@
 {
   "item.tutorialmod.ice_ether":"Ice Ether",
-  "itemGroup.tutorial.group": "Tutorial Group"
+  "itemGroup.tutorial.group": "Tutorial Group",
+  "block.tutorial.ice_ether_block": "Ice Ether Block"
 }

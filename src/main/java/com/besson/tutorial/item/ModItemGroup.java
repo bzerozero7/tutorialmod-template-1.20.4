@@ -1,6 +1,7 @@
 package com.besson.tutorial.item;
 
 import com.besson.tutorial.TutorialMod;
+import com.besson.tutorial.block.ModBlocks;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.block.Blocks;
 import net.minecraft.item.Item;
@@ -20,6 +21,7 @@ public class ModItemGroup {
                         entries.add(ModItems.ICE_ETHER);
                         entries.add(Items.BOOK);
                         entries.add(Blocks.CLAY);
+                        entries.add(ModBlocks.ICE_EHTER_BLOCK);
                     }).build());
     public static void registerModItemGroup(){
 
