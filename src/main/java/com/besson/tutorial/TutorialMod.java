@@ -1,5 +1,6 @@
 package com.besson.tutorial;
 
+import com.besson.tutorial.block.ModBlocks;
 import com.besson.tutorial.item.ModItemGroup;
 import com.besson.tutorial.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -23,5 +24,6 @@ public class TutorialMod implements ModInitializer {
 		LOGGER.info("Hello Fabric world!");
 		ModItems.registerModItems();
 		ModItemGroup.registerModItemGroup();
+		ModBlocks.registerModBlocks();
 	}
 }
