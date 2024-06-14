@@ -22,6 +22,9 @@ public class ModItemGroup {
                         entries.add(Items.BOOK);
                         entries.add(Blocks.CLAY);
                         entries.add(ModBlocks.ICE_EHTER_BLOCK);
+                        entries.add(ModItems.RAW_ICE_ETHER);
+                        entries.add(ModBlocks.RAW_ICE_ETHER_BLOCK);
+                        entries.add(ModBlocks.ICE_ETHER_ORE);
                     }).build());
     public static void registerModItemGroup(){
 

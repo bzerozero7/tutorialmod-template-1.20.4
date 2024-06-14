@@ -1,5 +1,10 @@
 {
   "item.tutorialmod.ice_ether":"Ice Ether",
-  "itemGroup.tutorial.group": "Tutorial Group",
-  "block.tutorial.ice_ether_block": "Ice Ether Block"
+  "item.tutorialmod.raw_ice_ether":"Raw Ice Ether",
+
+  "block.tutorial.ice_ether_block": "Ice Ether Block",
+  "block.tutorial.raw_ice_ether_block": "Raw Ice Ether Block",
+  "block.tutorial.raw_ice_ether_ore": "Ice Ether Ore",
+
+  "itemGroup.tutorial.group": "Tutorial Group"
 }
