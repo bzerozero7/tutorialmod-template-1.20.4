@@ -1,6 +1,7 @@
 {
   "item.tutorialmod.ice_ether":"Ice Ether",
   "item.tutorialmod.raw_ice_ether":"Raw Ice Ether",
+  "item.tutorialmod.prospector": "Prospector",
 
   "block.tutorial.ice_ether_block": "Ice Ether Block",
   "block.tutorial.raw_ice_ether_block": "Raw Ice Ether Block",
